@@ -9,18 +9,21 @@
   <img src="https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Development-FlutterFlow-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Category-Food%20Ordering-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Purpose-Learning-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Payment%20Gateway-Not%20Integrated-red?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  Hostel Snacks is a mobile food-ordering application designed to help college students order snacks and meals from campus food outlets directly from their hostels without physically visiting the canteen.
+  Hostel Snacks is a static mobile application concept designed to demonstrate how college students could browse and order snacks and meals from campus food outlets directly from their hostels without physically visiting the canteen.
 </p>
 
 <h2 align="center">📌 Overview</h2>
 
-Hostel Snacks is a mobile application developed using FlutterFlow to make food ordering easier and more convenient for college students.
+Hostel Snacks is a mobile application developed using FlutterFlow as a learning project focused on mobile app development and user interface design.
 
-The app allows students to browse available food items and place orders from their hostels or other locations within the college campus, saving time and effort.
+The application demonstrates the concept of convenient food ordering for college students, particularly hostel residents who want easier access to campus food options.
+
+**Important:** This is a static demonstration project. It does not include a live backend, dynamic database integration, or payment gateway. It is intended for educational and learning purposes only and is not a production-ready food-ordering system.
 
 <h2 align="center">🧠 Vision</h2>
 
@@ -28,36 +31,60 @@ The app allows students to browse available food items and place orders from the
   <b>Your favorite campus snacks, just a few taps away.</b>
 </p>
 
-Hostel Snacks aims to:
+Hostel Snacks explores the idea of making campus food ordering more convenient by aiming to:
 
-- Simplify food ordering within college campuses.
-- Save students time and effort.
-- Make campus food options more accessible.
-- Provide a convenient ordering experience for hostel residents.
-- Improve the way students access canteen services.
+- Simplify the food-ordering experience within college campuses.
+- Reduce the time and effort required to visit the canteen.
+- Present campus food options through a mobile interface.
+- Improve convenience for hostel residents.
+- Demonstrate the basic design and workflow of a food-ordering application.
 
 <h2 align="center">✨ Key Features</h2>
 
-✔ Mobile-based food ordering  
-✔ Access to available campus food items  
-✔ Simple and user-friendly interface  
-✔ Designed for college and hostel students  
-✔ Convenient food selection and ordering  
+✔ Mobile application interface for food ordering  
+✔ Food menu presentation concept  
+✔ Simple and user-friendly UI  
+✔ Designed for college students and hostel residents  
+✔ Food selection and ordering workflow concept  
 ✔ Developed using FlutterFlow  
+✔ Android APK available for testing and demonstration  
+
+*Note: These features describe the application's intended concept and interface. Actual functionality depends on the static implementation.*
 
 <h2 align="center">📱 How It Works</h2>
 
+The application demonstrates a basic food-ordering workflow:
+
 1. Open the Hostel Snacks application.
-2. Browse the available snacks and meals.
-3. Select your preferred food items.
-4. Place your order through the app.
-5. Follow the configured collection or delivery process.
+2. Explore the displayed food items.
+3. Select food items using the available interface.
+4. Explore the ordering flow demonstrated in the app.
+
+Since this is a static learning project, live order processing, payment transactions, and real-time order management are not integrated.
 
 <h2 align="center">🎯 Why Hostel Snacks?</h2>
 
-Students often need to leave their hostels just to visit the canteen and order food. Hostel Snacks aims to eliminate this inconvenience by bringing the ordering process directly to their mobile devices.
+Students often need to leave their hostels to visit the canteen for snacks and meals. Hostel Snacks explores how a mobile application could make this experience more convenient.
+
+The project provides an opportunity to learn how a campus food-ordering interface can be designed using a visual mobile development platform.
 
 **Less walking. Easier ordering. More convenience.**
+
+<h2 align="center">📚 Project Purpose & Limitations</h2>
+
+Hostel Snacks was created primarily for **learning, practice, and educational purposes** using FlutterFlow.
+
+**Project limitations:**
+
+- 🎓 Educational project, not a commercial application.
+- 📱 Static mobile app demonstration.
+- 🗄️ No live backend or dynamic database integration.
+- 💳 No payment gateway integration.
+- 📦 No live order processing or restaurant management system.
+- 🚚 No integrated real-time delivery or order tracking.
+- 🔔 No live order notifications.
+
+The purpose of this project is to explore mobile UI development, application layout, and the basic concept of food ordering.
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -71,10 +98,10 @@ Students often need to leave their hostels just to visit the canteen and order f
 <h2 align="center">📥 Download the APK</h2>
 
 <p align="center">
-  <b>Try Hostel Snacks on your Android device!</b>
+  <b>Explore Hostel Snacks on your Android device!</b>
 </p>
 
-The APK file is available in the **Releases** section of this GitHub repository.
+The Android APK is available in the **Releases** section of this GitHub repository.
 
 **Installation steps:**
 
@@ -84,21 +111,27 @@ The APK file is available in the **Releases** section of this GitHub repository.
 4. Download the `.apk` file from the release assets.
 5. Open the downloaded file on your Android device and follow the installation instructions.
 
-> Note: Your Android device may ask you to allow installation from the source you used to download the APK. Only install applications from sources you trust.
+> **Note:** Android may ask you to allow installation from the source used to download the APK. Install it only if you trust the source.
 
 <h2 align="center">🚀 Project Status</h2>
 
-- Mobile application developed using FlutterFlow.
-- Designed to simplify campus food ordering.
+- Static mobile application developed using FlutterFlow.
+- Created for educational and learning purposes.
+- Demonstrates the concept of campus food ordering.
+- No payment gateway or live backend integration.
 - Android APK available through GitHub Releases.
 
-<h2 align="center">🔮 Future Enhancements</h2>
+<h2 align="center">🔮 Future Learning Opportunities</h2>
 
-- Online payment integration.
-- Real-time order tracking.
-- Order history and reordering.
-- Push notifications for order updates.
-- Improved food menu management.
+The following features could be explored in a future, fully functional version:
+
+- Backend and database integration.
+- User authentication and account management.
+- Live food menu management.
+- Online payment gateway integration.
+- Order history and order management.
+- Real-time order status updates.
+- Push notifications.
 - Hostel delivery coordination.
 
 <h2 align="center">👨‍💻 Developer</h2>
@@ -115,10 +148,16 @@ The APK file is available in the **Releases** section of this GitHub repository.
 <h2 align="center">⭐ Final Thought</h2>
 
 <p align="center">
-  Hostel Snacks brings campus food ordering to your fingertips,<br>
-  making college life a little easier, one snack at a time.
+  Hostel Snacks explores how mobile technology can make campus food ordering more convenient,<br>
+  one snack at a time.
 </p>
 
 <p align="center">
   🍔 <b>Order. Relax. Enjoy.</b>
+</p>
+
+<h2 align="center">📜 License</h2>
+
+<p align="center">
+  No license specified yet. Add a license if you decide to distribute the project under specific reuse terms.
 </p>

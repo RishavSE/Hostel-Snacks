@@ -155,9 +155,3 @@ The following features could be explored in a future, fully functional version:
 <p align="center">
   🍔 <b>Order. Relax. Enjoy.</b>
 </p>
-
-<h2 align="center">📜 License</h2>
-
-<p align="center">
-  No license specified yet. Add a license if you decide to distribute the project under specific reuse terms.
-</p>
